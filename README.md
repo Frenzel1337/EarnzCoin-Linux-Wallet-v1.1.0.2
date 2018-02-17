@@ -1,0 +1,1 @@
+# EarnzCoin-Linux-Wallet-v1.1.0.2
